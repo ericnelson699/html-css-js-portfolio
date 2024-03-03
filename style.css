@@ -270,6 +270,9 @@ section {
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
+    justify-content: center;
+    flex-direction: column;
+    
   }
   
   .about-details-container {
