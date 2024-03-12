@@ -256,6 +256,7 @@ section {
 
 .btn-container {
     gap: 1rem;
+    color: teal;
 }
 
 /* ABOUT section*/
@@ -381,6 +382,7 @@ section {
     color: teal;
     border-color: rgb(163, 163, 163);
   }
+  
   
   /* CONTACT */
 
